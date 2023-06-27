@@ -8,6 +8,7 @@ public class PrimeNumberApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PrimeNumberApplication.class, args);
+
     }
 
 }
